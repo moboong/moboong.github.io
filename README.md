@@ -5,10 +5,12 @@
 ## 전체 설계도
 <img src="architecture.png"/><br>
 [발표자료](/project.pdf)<br>
-## 발표 동영상
-발표 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+## 유튜브 동영상
+과제1 동영상입니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cT2gRLwvMF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+과제2 동영상입니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pM-Z49-UK0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Reference
 [검색엔진](https://naver.com)
 [Repository 1](https://{github-id}.github.io/{repository-name})
