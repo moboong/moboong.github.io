@@ -14,4 +14,4 @@
 
 ## Reference
 [검색엔진](https://naver.com)
-[Repository 1](https://moboong.github.io/HelloWorld_Java_2021)
+[Repository 1](https://github.com/moboong/HelloWorld_Java_2021.git)
