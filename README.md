@@ -1,5 +1,5 @@
 # feature2의 github 홈페이지
-# feature2는 git gui에서 수정했습니다.
+# feature2는 모붕이 노트북 git gui에서 수정했습니다.
 ## 프로젝트 주제
 통합계좌 관리 금융시스템입니다.
 ## 전체 설계도
