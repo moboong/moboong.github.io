@@ -13,5 +13,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM-Z49-UK0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference
-[검색엔진](https://naver.com)
-[Repository 1](https://github.com/moboong/HelloWorld_Java_2021.git)
+[검색엔진](https://naver.com)<br>
+[Repository 1 JavaProject](https://github.com/moboong/HelloWorld_Java_2021.git)
