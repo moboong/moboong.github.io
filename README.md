@@ -1,7 +1,7 @@
 # 황준호의 GitHub 홈페이지
 ## 자기소개
 나를 소개합니다.<br>
-[발표자료](/project.pdf)<br>
+[발표자료: pdf 파일보기](/project.pdf)<br>
 ## 유튜브 동영상
 과제1 [GitHub 사용법] 동영상입니다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cT2gRLwvMF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,5 +29,42 @@
 특징: 최근 고객 중심 서비스가 주요해지며, 고객 접점 채널에 즉각적인 마케팅과 개인화가 가능하도록 빅데이터 기술이 가장 많이 활용되고 있음.
 
 </details>
+<details markdown="1">
+<summary>채널계</summary>
+
+고객 유입 채널이 다양해짐에 따라 이러한 고객들과 접하는 통로를 관리하는 시스템.
+
+</details>
+<details markdown="1">
+<summary>ETL</summary>
+
+고객 유입 채널이 다양해짐에 따라 이러한 고객들과 접하는 통로를 관리하는 시스템.
+
+</details>
+<details markdown="1">
+<summary>ETCL</summary>
+
+고객 유입 채널이 다양해짐에 따라 이러한 고객들과 접하는 통로를 관리하는 시스템.
+
+</details>
+<details markdown="1">
+<summary>가상화서버</summary>
+
+가상화가 대세. -> 예전에는 일부만 가상화를 사용했지만 이제 금융권도 코어부분도 가상화서버에 올리고 있다.
+
+개발서버, 테스트서버, 운용서버
+
+이렇게 한 프로젝트에 여러 서버들이 필요한데, 이러한 서버를 구축하는데 6주걸린다.
+
+하지만, 가상화를 이용하면 하루면 끝.
+
+기존에 가상화서비스의 보안과 성능의 문제로 일부만 가상화서버를 사용했던 금융권이
+
+최근 기술 제약의 극복으로 많은 부분을 가상화로 전환하려는 움직임이 활발하기 때문에
+
+가상화 서버에 대한 지식과 기술은 필수적이다.
+
+</details>
+
 
 
