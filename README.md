@@ -9,7 +9,7 @@
 과제2 [Sourcetree 사용법] 동영상입니다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM-Z49-UK0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## IT용어 사전
-[IT사전 바로가기](https://moboong.github.io/IT_Dictionary)
+## IT 용어 사전
+[IT 사전 바로가기](https://moboong.github.io/IT_Dictionary)
 
 
