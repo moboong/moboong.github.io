@@ -10,7 +10,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pM-Z49-UK0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Java 과제 Repository
-[자바 과제 바로가기](https://moboong.github.io/)
+[자바 과제 바로가기](https://moboong.github.io/Java_On_Git/)
 
 ## IT 용어 사전
 [IT 사전 바로가기](https://moboong.github.io/IT_Dictionary)
